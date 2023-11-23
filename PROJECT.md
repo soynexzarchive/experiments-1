@@ -5,11 +5,9 @@
 ### Files
 
 - (✅|🟢) .editorconfig
-- (✅|🟢) .gitignore
 - (✅|🟢) .prettierrc
-- (✅|🟢) LICENSE
-- (💻|🟢) PROJECT.md
-- (💻|🟢) README.md
+- (✅|🟢) PROJECT.md
+- (✅|🟢) README.md
 
 ### Legends
 
@@ -38,4 +36,4 @@
 - (`🔴`) > **Not shared**
 - (`🟢`) > **Shared**
 
-###### Copyright (c) Toolbi Software Inc. All rights reserved.
+###### Copyright (c) soynexz. All rights reserved.
