@@ -1,17 +1,26 @@
-# PROJECT_NAME
+# Experiments
 
-## Project
+## What is this?
 
-### Description
+To put it simply, it's just the place where all my "unprofessional" projects live.
 
-REPOSITORY_DESCRIPTION
+## What do you mean by unprofessional?
 
-### Information
+Usually, I review my code line by line to see that:
 
-For more information about the project check the [PROJECT.md](https://github.com/toolbisoftware/REPOSITORY_NAME/blob/master/PROJECT.md) file in the repository root.
+- I didn't do any typo.
+- the imports and exports are sorted by their supposed priority (determined by my mind).
+- ...
 
-### [License](https://github.com/toolbisoftware/REPOSITORY_NAME/blob/master/LICENSE)
+This is my way to:
 
-This project is private.
+- try to be less perfectionist.
+- learn new things without being worried about it not being perfect.
 
-###### Copyright (c) Toolbi Software Inc. All rights reserved.
+And probably something more that I don't remember right now.
+
+---
+
+To see "perfect" projects/repositories check out any other project that is lead by me.
+
+###### Copyright (c) soynexz. All rights reserved.
